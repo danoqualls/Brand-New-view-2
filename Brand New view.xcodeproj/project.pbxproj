@@ -14,6 +14,15 @@
 		30D21EAB1A311CBA0093E7C4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EAA1A311CBA0093E7C4 /* Images.xcassets */; };
 		30D21EAE1A311CBA0093E7C4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EAC1A311CBA0093E7C4 /* LaunchScreen.xib */; };
 		30D21EBA1A311CBA0093E7C4 /* Brand_New_viewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 30D21EB91A311CBA0093E7C4 /* Brand_New_viewTests.m */; };
+		30D21ECA1A311CCA0093E7C4 /* arrow icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EC31A311CCA0093E7C4 /* arrow icon.png */; };
+		30D21ECB1A311CCA0093E7C4 /* home icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EC41A311CCA0093E7C4 /* home icon.png */; };
+		30D21ECC1A311CCA0093E7C4 /* grey.png in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EC51A311CCA0093E7C4 /* grey.png */; };
+		30D21ECD1A311CCA0093E7C4 /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EC61A311CCA0093E7C4 /* red.png */; };
+		30D21ECE1A311CCA0093E7C4 /* Button white.png in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EC71A311CCA0093E7C4 /* Button white.png */; };
+		30D21ECF1A311CCA0093E7C4 /* Button red.png in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EC81A311CCA0093E7C4 /* Button red.png */; };
+		30D21ED01A311CCA0093E7C4 /* white.png in Resources */ = {isa = PBXBuildFile; fileRef = 30D21EC91A311CCA0093E7C4 /* white.png */; };
+		30D21ED21A3124000093E7C4 /* syrah bottle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 30D21ED11A3124000093E7C4 /* syrah bottle.jpg */; };
+		30D21ED41A3128490093E7C4 /* Right arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 30D21ED31A3128490093E7C4 /* Right arrow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +49,15 @@
 		30D21EB31A311CBA0093E7C4 /* Brand New viewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Brand New viewTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		30D21EB81A311CBA0093E7C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		30D21EB91A311CBA0093E7C4 /* Brand_New_viewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Brand_New_viewTests.m; sourceTree = "<group>"; };
+		30D21EC31A311CCA0093E7C4 /* arrow icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow icon.png"; sourceTree = "<group>"; };
+		30D21EC41A311CCA0093E7C4 /* home icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home icon.png"; sourceTree = "<group>"; };
+		30D21EC51A311CCA0093E7C4 /* grey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grey.png; sourceTree = "<group>"; };
+		30D21EC61A311CCA0093E7C4 /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
+		30D21EC71A311CCA0093E7C4 /* Button white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button white.png"; sourceTree = "<group>"; };
+		30D21EC81A311CCA0093E7C4 /* Button red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button red.png"; sourceTree = "<group>"; };
+		30D21EC91A311CCA0093E7C4 /* white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white.png; sourceTree = "<group>"; };
+		30D21ED11A3124000093E7C4 /* syrah bottle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "syrah bottle.jpg"; sourceTree = "<group>"; };
+		30D21ED31A3128490093E7C4 /* Right arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Right arrow.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +106,7 @@
 				30D21EA71A311CBA0093E7C4 /* Main.storyboard */,
 				30D21EAA1A311CBA0093E7C4 /* Images.xcassets */,
 				30D21EAC1A311CBA0093E7C4 /* LaunchScreen.xib */,
+				30D21ED31A3128490093E7C4 /* Right arrow.png */,
 				30D21E9D1A311CBA0093E7C4 /* Supporting Files */,
 			);
 			path = "Brand New view";
@@ -96,6 +115,14 @@
 		30D21E9D1A311CBA0093E7C4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				30D21ED11A3124000093E7C4 /* syrah bottle.jpg */,
+				30D21EC31A311CCA0093E7C4 /* arrow icon.png */,
+				30D21EC41A311CCA0093E7C4 /* home icon.png */,
+				30D21EC51A311CCA0093E7C4 /* grey.png */,
+				30D21EC61A311CCA0093E7C4 /* red.png */,
+				30D21EC71A311CCA0093E7C4 /* Button white.png */,
+				30D21EC81A311CCA0093E7C4 /* Button red.png */,
+				30D21EC91A311CCA0093E7C4 /* white.png */,
 				30D21E9E1A311CBA0093E7C4 /* Info.plist */,
 				30D21E9F1A311CBA0093E7C4 /* main.m */,
 			);
@@ -199,9 +226,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30D21ECE1A311CCA0093E7C4 /* Button white.png in Resources */,
 				30D21EA91A311CBA0093E7C4 /* Main.storyboard in Resources */,
+				30D21ED21A3124000093E7C4 /* syrah bottle.jpg in Resources */,
+				30D21ECA1A311CCA0093E7C4 /* arrow icon.png in Resources */,
+				30D21ECC1A311CCA0093E7C4 /* grey.png in Resources */,
 				30D21EAE1A311CBA0093E7C4 /* LaunchScreen.xib in Resources */,
+				30D21ED01A311CCA0093E7C4 /* white.png in Resources */,
+				30D21ECD1A311CCA0093E7C4 /* red.png in Resources */,
+				30D21ECF1A311CCA0093E7C4 /* Button red.png in Resources */,
+				30D21ECB1A311CCA0093E7C4 /* home icon.png in Resources */,
 				30D21EAB1A311CBA0093E7C4 /* Images.xcassets in Resources */,
+				30D21ED41A3128490093E7C4 /* Right arrow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
