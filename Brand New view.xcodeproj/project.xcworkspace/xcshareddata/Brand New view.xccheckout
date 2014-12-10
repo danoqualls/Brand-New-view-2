@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0255256F-F9B0-4E6C-8400-3F66ECC56E28</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Brand New view</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C1E542E39451867F7270D1A0C430463B2C1A56BF</key>
+		<string>https://github.com/danoqualls/Brand-New-view-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Brand New view.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C1E542E39451867F7270D1A0C430463B2C1A56BF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danoqualls/Brand-New-view-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1E542E39451867F7270D1A0C430463B2C1A56BF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1E542E39451867F7270D1A0C430463B2C1A56BF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Brand%20New%20view</string>
+		</dict>
+	</array>
+</dict>
+</plist>
