@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>4BBE2CE2-47E9-49B2-A165-27E045F137D3</string>
+=======
+	<string>0255256F-F9B0-4E6C-8400-3F66ECC56E28</string>
+>>>>>>> FETCH_HEAD
 	<key>IDESourceControlProjectName</key>
 	<string>Brand New view</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +38,11 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>C1E542E39451867F7270D1A0C430463B2C1A56BF</string>
 			<key>IDESourceControlWCCName</key>
+<<<<<<< HEAD
 			<string>Brand-New-view-2</string>
+=======
+			<string>Brand%20New%20view</string>
+>>>>>>> FETCH_HEAD
 		</dict>
 	</array>
 </dict>
